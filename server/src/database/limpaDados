@@ -1,0 +1,3 @@
+-- SQLite
+delete from points_items;
+delete from points;
