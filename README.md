@@ -4,8 +4,8 @@ Este app tem a finalidade de cadastro e consulta de locais de coleta de reciclá
 
 
 # Mobile 
-<img src="https://github.com/anaelj/nlw-01/blob/master/mobile-inicial.png">
-<img src="https://github.com/anaelj/nlw-01/blob/master/mobile-mapa.png">
+<img src="mobile-inicial.jpg">
+<img src="mobile-mapa.jpg">
 
 
 
