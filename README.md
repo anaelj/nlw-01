@@ -9,9 +9,9 @@ Este app tem a finalidade de cadastro e consulta de locais de coleta de reciclá
 
 
 # Web 
-<img src="web-inicial-png">
-<img src="web-parte1-png">
-<img src="web-parte2-png">
+<img src="web-inicial.png">
+<img src="web-parte1.png">
+<img src="web-parte2.png">
 
 
 
